@@ -4,3 +4,8 @@ type Todo @model {
   description: String
   status: String
 }
+
+type User @model {
+  id: ID!
+  name: String!
+}
