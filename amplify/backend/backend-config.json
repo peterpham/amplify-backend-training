@@ -23,5 +23,12 @@
         }
       }
     }
+  },
+  "function": {
+    "test1": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
   }
 }

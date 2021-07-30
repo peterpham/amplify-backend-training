@@ -1,4 +1,22 @@
 {
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifytrainingbacke-main-44519-authRole",
+      "UnauthRoleArn": "arn:aws:iam::803287884767:role/amplify-amplifytrainingbacke-main-44519-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::803287884767:role/amplify-amplifytrainingbacke-main-44519-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifytrainingbacke-main-44519-deployment",
+      "UnauthRoleName": "amplify-amplifytrainingbacke-main-44519-unauthRole",
+      "StackName": "amplify-amplifytrainingbacke-main-44519",
+      "StackId": "arn:aws:cloudformation:us-east-1:803287884767:stack/amplify-amplifytrainingbacke-main-44519/f1c88640-f0f0-11eb-84c2-120290f41bcd",
+      "AmplifyAppId": "d1hyklm6qse9fs"
+    },
+    "categories": {
+      "auth": {
+        "amplifytrainingbackeb65d3184": {}
+      }
+    }
+  },
   "panda": {
     "awscloudformation": {
       "AuthRoleName": "amplify-amplifytrainingbacke-panda-221611-authRole",
